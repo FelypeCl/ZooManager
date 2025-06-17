@@ -11,8 +11,8 @@ public class Programa
 	public static void Main(string[] args)
 	{
         /*
-         * Instancia Zoológico e suas dependências
-         * e INICIA o Menu!
+         * Instanciar Zoológico e suas dependências
+         * e INICIAR o Menu!
          */
 
         Zoologico zoo = new Zoologico();
